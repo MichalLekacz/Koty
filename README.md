@@ -1,1 +1,1 @@
-# Koty - zadanie przy uzyciu cat API
+# Cats - Exercise using cat API
